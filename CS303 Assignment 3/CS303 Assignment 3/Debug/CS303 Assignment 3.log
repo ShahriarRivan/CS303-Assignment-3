@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1091,5): warning MSB8027: Two or more files with the name of CS303 Assignment 3.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are CS303 Assignment 3.cpp, R:\Docs & files\CS303\CS303 Assignment 3.cpp.
+  CS303 Assignment 3.cpp
+R:\Docs & files\CS303\CS303 Assignment 3.cpp(103,22): warning C4018: '<': signed/unsigned mismatch
+Debug\CS303 Assignment 3.obj : warning LNK4042: object specified more than once; extras ignored
+  CS303 Assignment 3.vcxproj -> C:\Users\shahr\source\repos\CS303 Assignment 3\Debug\CS303 Assignment 3.exe
